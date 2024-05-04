@@ -1,0 +1,9 @@
+{
+    "C_Cpp.errorSquiggles": "enabled",
+    "files.associations": {
+        "math.h": "c",
+        "time.h": "c",
+        "unistd.h": "c",
+        "main_ground_printer.c": "cpp"
+    }
+}
